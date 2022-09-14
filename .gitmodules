@@ -1,0 +1,30 @@
+[submodule "projects/submodule1"]
+	path = projects/submodule1
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule2"]
+	path = projects/submodule2
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule3"]
+	path = projects/submodule3
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule4"]
+	path = projects/submodule4
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule5"]
+	path = projects/submodule5
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule6"]
+	path = projects/submodule6
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule7"]
+	path = projects/submodule7
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submodule8"]
+	path = projects/submodule8
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/submoduleparent"]
+	path = projects/submoduleparent
+	url = https://github.com/githubtraining/example-submodule.git
+[submodule "projects/parent"]
+	path = projects/parent
+	url = https://github.com/zulfi1098/myrep1.git
