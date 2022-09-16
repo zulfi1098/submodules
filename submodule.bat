@@ -1,3 +1,2 @@
-call git submodule sync
-call git submodule update --init --recursive
+echo 'test_echo'
 
