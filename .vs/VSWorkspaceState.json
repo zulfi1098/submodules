@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\projects",
+    "\\projects\\parent"
   ],
-  "SelectedNode": "\\C:\\Users\\Zulfiqar\\Source\\Repos\\submodules",
+  "SelectedNode": "\\projects\\parent",
   "PreviewInSolutionExplorer": false
 }
