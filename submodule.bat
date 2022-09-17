@@ -1,2 +1,3 @@
-echo 'test_echo'
+call git submodule update --recursive --remote --merge
+
 
